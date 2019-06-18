@@ -32,8 +32,9 @@ epic_tragedy
 
 
 def monopoly
-  monopoly = {}
-  monopoly[:railroads] = { }
+  monopoly = {
+  monopoly[:railroads] = {}
+}
 end
 
 monopoly
